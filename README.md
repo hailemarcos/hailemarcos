@@ -23,3 +23,8 @@ deus no topo
   <img align="center" alt="matt-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
 <img align="right" alt="matt-pic" height="250px" width="250px" 
     
+
+     
+     
+     <img src="https://github.com/mathxusohai/hailemarcos/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+     

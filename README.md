@@ -21,6 +21,5 @@ deus no topo
   <img align="center" alt="matt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="center" alt="matt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   <img align="center" alt="matt-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
-<img align="right" alt="matt-pic" height="250px" width="250px" src="https://camo.githubusercontent.com/25f123c758ddde99065ad6df393771c33a3c8550605ba92c9b02d6420a2d6925/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3838313934353837323433333239393531312f3930313130383838313636333631393037322f646f776e6c6f616432303231313030353130353535322e706e673f77696474683d343733266865696768743d343733" data-canonical-src="https://media.discordapp.net/attachments/881945872433299511/901108881663619072/download20211005105552.png?width=473&amp;height=473" style="max-width: 100%;">
-</div>
+<img align="right" alt="matt-pic" height="250px" width="250px" 
     

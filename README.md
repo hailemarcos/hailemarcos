@@ -1,9 +1,5 @@
 # SobreMim
 
-Cristão 
-Casado com deus
-deus no topo
-
 
 [11:36] Hailê Marcos da silva santos
     <div align="center">
